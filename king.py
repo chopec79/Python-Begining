@@ -1,0 +1,1 @@
+print('I am king of the World')

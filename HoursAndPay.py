@@ -1,0 +1,7 @@
+hours=input('How many hours')
+Chours =int(hours)
+rate=input('what is your rate?')
+Crate=float(rate)
+pay= (Chours*Crate)
+print(pay)
+print('your pay will be' , pay)
